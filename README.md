@@ -1,6 +1,10 @@
 ## Downloads
 <ul>
-  <li><a href="https://ubuntu.com/download/desktop">Ubuntu LTS</a></li>
+  <li><a href="https://ubuntu.com/download/desktop">Ubuntu LTS</a>
+    <ul>
+      <li><a href="https://www.tecmint.com/things-to-do-after-installing-ubuntu-20-04/">25 Things to Do After Installing Ubuntu 20.04 LTS</a></li>
+    </ul>
+  </li>
 </ul>
 
 ## References
