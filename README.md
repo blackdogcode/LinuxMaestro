@@ -14,7 +14,7 @@
   <li><a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview">Ubuntu Linux Commnad Line Tutorial</a></li>
 </ul>
 
-## [2. Linux Command Structure](https://www.geeksforgeeks.org/man-command-in-linux-with-examples/)
+## [2. Linux Commands](https://www.geeksforgeeks.org/man-command-in-linux-with-examples/)
 
 ### 2-1. User Commands
 
