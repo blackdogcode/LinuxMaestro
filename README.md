@@ -15,7 +15,8 @@
 </ul>
 
 ## [2. Linux Commands](https://www.geeksforgeeks.org/man-command-in-linux-with-examples/)
-<ul>Command Input and Output
+Command Input and Output
+<ul>
   <li><a href="https://www.howtogeek.com/435903/what-are-stdin-stdout-and-stderr-on-linux/">What Are stdin, stdout, and stderr on Linux?</a></li>
 </ul>
 
