@@ -18,6 +18,8 @@
 <strong>Command Input and Output</strong>
 <ul>
   <li><a href="https://www.howtogeek.com/435903/what-are-stdin-stdout-and-stderr-on-linux/">What Are stdin, stdout, and stderr on Linux?</a></li>
+  
+  <li><a href="https://www.geeksforgeeks.org/input-output-redirection-in-linux/">Input Output Redirection in Linux</a></li>
 </ul>
 
 ### 2-1. User Commands
