@@ -39,5 +39,8 @@
 ### 2-8. System administration tools and Daemons
 <ul>
   <li><a href="https://t.ly/uWyR">apt Command in Linux</a>
+    <ul>
+      <li><a href="https://itsfoss.com/apt-vs-apt-get-difference/">Difference Between apt and apt-get</a></li>
+    </ul>
   </li>
 </ul>
