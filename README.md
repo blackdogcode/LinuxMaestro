@@ -38,6 +38,6 @@
 
 ### 2-8. System administration tools and Daemons
 <ul>
-  <li><a href="t.ly/DNH7">apt Command in Linux</a>
+  <li><a href="https://t.ly/uWyR">apt Command in Linux</a>
   </li>
 </ul>
