@@ -38,5 +38,6 @@
 
 ### 2-8. System administration tools and Daemons
 <ul>
-  <li><a href="https://itsfoss.com/apt-get-linux-guide/">apt-get</a></li>
+  <li><a href="t.ly/DNH7">apt Command in Linux</a>
+  </li>
 </ul>
