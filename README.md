@@ -38,6 +38,8 @@
   <li><a href="https://www.geeksforgeeks.org/tee-command-linux-example/">tee Command</a></li>
   
   <li><a href="https://linuxize.com/post/linux-xargs-command/">xargs command</a></li>
+  
+  <li><a href="https://t.ly/qBuX">What is the difference between “Redirection” and “Pipe”?</a></li>
 </ul>
 
 ![Piping Tee Command](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tee.svg/400px-Tee.svg.png)
