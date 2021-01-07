@@ -34,6 +34,7 @@
 </ul>
 
 <strong>Piping</strong>
+![Piping Tee Command](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tee.svg/400px-Tee.svg.png)
 
 <strong>Tools</strong>
 <ul>
