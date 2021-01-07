@@ -18,7 +18,7 @@
   <li><a href="http://mywiki.wooledge.org/BashGuide">Bash Guides</a></li>
 </ul>
 
-## [Linux Commands](https://www.geeksforgeeks.org/linux-commands/)
+## [Linux Tutorial](https://www.javatpoint.com/linux-tutorial)
 <strong>Command Input and Output</strong>
 <ul>
   <li><a href="https://www.howtogeek.com/435903/what-are-stdin-stdout-and-stderr-on-linux/">What Are stdin, stdout, and stderr on Linux?</a></li>
