@@ -22,6 +22,13 @@
   <li><a href="https://www.geeksforgeeks.org/input-output-redirection-in-linux/">Input Output Redirection in Linux</a></li>
 </ul>
 
+<strong>Redirection</strong>
+<ul>
+  <li><a href="http://mywiki.wooledge.org/BashGuide/InputAndOutput?#Redirection">Basic Guide for Redirection</a></li>
+  
+  <li><a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html#Redirections">Official Linux Redirection Manual</a></li>
+</ul>
+
 ### 2-1. User Commands
 
 ### 2-2. System Calls
