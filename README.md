@@ -33,7 +33,7 @@
   <li><a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html#Redirections">Official Linux Redirection Manual</a></li>
 </ul>
 
-<strong>Piping</strong>
+<strong>Piping</strong><br>
 ![Piping Tee Command](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tee.svg/400px-Tee.svg.png)
 
 <strong>Tools</strong>
