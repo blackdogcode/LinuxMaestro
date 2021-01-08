@@ -21,7 +21,7 @@
 ## [Linux Tutorial](https://www.javatpoint.com/linux-tutorial)
 
 ### Linux Architecture
-[Structure of Linux](https://static.javatpoint.com/linux/images/what-is-linux.png)
+![Structure of Linux](https://static.javatpoint.com/linux/images/what-is-linux.png)
 
 <ul>
   <li><a href="">Structure of Linux Operation System(Kernel, System Libraries...)</a></li>
