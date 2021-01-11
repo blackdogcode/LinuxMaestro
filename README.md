@@ -11,7 +11,7 @@
   <li><a href="http://mywiki.wooledge.org/BashGuide">Bash Guides</a></li>
 </ul>
 
-## [Linux Tutorial](https://www.javatpoint.com/linux-tutorial)
+## Linux
 
 ### Linux Architecture
 ![Structure of Linux](https://static.javatpoint.com/linux/images/what-is-linux.png)
@@ -53,6 +53,8 @@
     </ul>
   </li>
 </ul>
+
+## Bash Scripting
 
 ## Tips
 <ul>
