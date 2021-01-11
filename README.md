@@ -1,5 +1,7 @@
 ## References
 <ul>
+  <li><a href="https://www.gnu.org/licenses/gpl-3.0.html">GPL(General Public Licnese)V3 Documnetation</a></li>
+  
   <li><a href="https://www.fosslinux.com/40109/debian-vs-ubuntu-everything-you-need-to-know-to-choose.htm">Debian vs Ubuntu</a></li>
   
   <li><a href="https://itsfoss.com/ubuntu-shortcuts/">13 Keyboard Shortcut Every Ubuntu 18.04 User Should Know</a></li>
@@ -8,7 +10,6 @@
   
   <li><a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview">Ubuntu Linux Commnad Line Tutorial</a></li>
   
-  <li><a href="http://mywiki.wooledge.org/BashGuide">Bash Guides</a></li>
 </ul>
 
 ## Linux
