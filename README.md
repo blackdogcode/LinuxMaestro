@@ -56,10 +56,12 @@
 
 ## Bash Scripting
 
+
 ## Tips
 <ul>
   <li><a href="https://www.tecmint.com/things-to-do-after-installing-ubuntu-20-04/">25 Things to Do After Installing Ubuntu 20.04 LTS</a></li>
 </ul>
+
 
 ## Others
 <ul>
