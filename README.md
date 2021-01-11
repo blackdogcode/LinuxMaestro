@@ -14,6 +14,11 @@
 
 ## Linux
 
+### Linux Tutorial
+<ul>
+  <li><a href="https://www.javatpoint.com/linux-features">Linux Features - Multiuser capability, ...Open Source</a></li>
+</ul>
+
 ### Linux Architecture
 ![Structure of Linux](https://static.javatpoint.com/linux/images/what-is-linux.png)
 
