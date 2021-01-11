@@ -1,6 +1,6 @@
 ## References
 <ul>
-  <li><a href="https://www.fosslinux.com/40109/debian-vs-ubuntu-everything-you-need-to-know-to-choose.htm">Ubuntu vs Debian</a></li>
+  <li><a href="https://www.fosslinux.com/40109/debian-vs-ubuntu-everything-you-need-to-know-to-choose.htm">Debian vs Ubuntu</a></li>
   
   <li><a href="https://itsfoss.com/ubuntu-shortcuts/">13 Keyboard Shortcut Every Ubuntu 18.04 User Should Know</a></li>
   
