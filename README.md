@@ -17,6 +17,8 @@
 ### Linux Tutorial
 <ul>
   <li><a href="https://www.javatpoint.com/linux-features">Linux Features - Multiuser capability, ...Open Source</a></li>
+  
+  <li><a href="https://www.javatpoint.com/linux-bash">Bash Shell Introduction</a></li>
 </ul>
 
 ### Linux Architecture
