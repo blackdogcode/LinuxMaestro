@@ -64,7 +64,10 @@
   </li>
 </ul>
 
-### [Linux File System](https://www.cyberciti.biz/tips/understanding-unixlinux-file-system-part-i.html)
+### Linux File System
+<ul>
+  <li><a href="https://www.cyberciti.biz/tips/understanding-unixlinux-file-system-part-i.html">Understanding UNIX / Linux File Systems</a></li>
+</ul>
 
 ## Bash Scripting
 
