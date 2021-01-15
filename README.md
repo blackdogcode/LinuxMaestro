@@ -73,6 +73,8 @@
       <li><a href="https://www.cyberciti.biz/faq/linuxunix-rules-for-naming-file-and-directory-names/">Linux / UNIX: Rules For Naming File And Directory Names</a></li>
     </ul>
   </li>
+  
+  <li><a href="http://www.linfo.org/wildcard.html">How to Use Wildcards</a></li>
 </ul>
 
 ## Bash Scripting
