@@ -93,7 +93,12 @@
 <ul>
   <li><a href="https://itsfoss.com/what-is-desktop-environment/">What is Desktop Environment in Linux?</a></li>
   
-  <li><a href="https://linuxhint.com/vim_vs_nano/">Vim vs. Nano</a></li>
+  <li><a href="https://linuxhint.com/vim_vs_nano/">Vim vs. Nano</a>
+    <ul>
+      <li><a href="https://www.tutorialspoint.com/vim/index.htm">Vim Tutorial</a></li>
+      <li><a href="https://www.tutorialspoint.com/how-to-use-nano-text-editor">Nano Tutorial</a></li>
+    </ul>
+  </li>
 </ul>
 
 ## QAs
