@@ -81,6 +81,8 @@
 ## Tips
 <ul>
   <li><a href="https://www.tecmint.com/things-to-do-after-installing-ubuntu-20-04/">25 Things to Do After Installing Ubuntu 20.04 LTS</a></li>
+  
+  <li><a href="https://www.cyberciti.biz/faq/linux-display-cpu-information-number-of-cpus-and-their-speed/">Linux Display CPU Information Number of CPUs and Their Speed</a></li>
 </ul>
 
 
