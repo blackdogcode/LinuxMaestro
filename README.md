@@ -96,7 +96,7 @@
   <li><a href="https://linuxhint.com/vim_vs_nano/">Vim vs. Nano</a>
     <ul>
       <li><a href="https://www.tutorialspoint.com/vim/index.htm">Vim Tutorial</a></li>
-      <li><a href="https://www.tutorialspoint.com/how-to-use-nano-text-editor">Nano Tutorial</a></li>
+      <li><a href="https://www.howtogeek.com/howto/42980/the-beginners-guide-to-nano-the-linux-command-line-text-editor/">Nano Tutorial</a></li>
     </ul>
   </li>
 </ul>
