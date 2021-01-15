@@ -85,6 +85,7 @@
   <li><a href="https://www.cyberciti.biz/faq/linux-display-cpu-information-number-of-cpus-and-their-speed/">Linux Display CPU Information Number of CPUs and Their Speed</a></li>
 </ul>
 
+  <li><a href="https://www.geeksforgeeks.org/ifconfig-command-in-linux-with-examples/">ifconfig command in Linux with Examples</a></li>
 
 ## Others
 <ul>
