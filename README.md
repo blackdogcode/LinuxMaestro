@@ -79,6 +79,8 @@
   <li><a href="https://osxdaily.com/2011/11/02/enable-and-use-the-locate-command-in-the-mac-os-x-terminal/">Enable and Use the ‘locate’ Command</a></li>
 </ul>
 
+  <li><a href="https://programmersought.com/article/99213966330/">Linux view file cat, less, more, head, tail, tac, rev command</a></li>
+
 ## Bash Scripting
 
 
