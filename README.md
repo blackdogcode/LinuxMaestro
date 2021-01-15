@@ -89,6 +89,7 @@
   <li><a href="https://www.geeksforgeeks.org/ifconfig-command-in-linux-with-examples/">ifconfig command in Linux with Examples</a></li>
   
   <li><a href="https://osxdaily.com/2011/11/02/enable-and-use-the-locate-command-in-the-mac-os-x-terminal/">Enable and Use the ‘locate’ Command</a></li>
+</ul>
 
 ## Others
 <ul>
