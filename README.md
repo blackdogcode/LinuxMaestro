@@ -92,7 +92,8 @@
 ## Others
 <ul>
   <li><a href="https://itsfoss.com/what-is-desktop-environment/">What is Desktop Environment in Linux?</a></li>
+  
+  <li><a href="https://linuxhint.com/vim_vs_nano/">Vim vs. Nano</a></li>
 </ul>
-
 
 ## QAs
