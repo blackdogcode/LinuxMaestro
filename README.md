@@ -89,7 +89,6 @@
       <li><a href="https://t.ly/uO6e">zip command in Linux with examples</a></li>
     </ul>
   </li>
-  
 </ul>
 
 
@@ -97,9 +96,11 @@
 <ul>
   <li><a href="https://linuxize.com/post/bash-shebang/">What is Bash Shebang(#!/bin/bash)?</a></li>
   
-  <li><a href="https://crontab.guru/">crontab guru</a></li>
-  
-  <li><a href="https://www.openafs.org/">OpenAFS</a></li>
+  <li><strong>Automated Scheduling
+    <ul>
+      <li><a href="https://crontab.guru/">crontab guru</a></li>
+    </ul>
+  </li>
 </ul>
 
 
