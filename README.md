@@ -92,7 +92,11 @@
   
 </ul>
 
+
 ## [Bash Scripting](https://www.javatpoint.com/bash)
+<ul>
+  <li><a href="https://linuxize.com/post/bash-shebang/">Bash Shebang(#!/bin/bash)</a></li>
+</ul>
 
 
 ## Tips
