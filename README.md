@@ -78,13 +78,12 @@
 
   <li><a href="https://osxdaily.com/2011/11/02/enable-and-use-the-locate-command-in-the-mac-os-x-terminal/">Enable and Use the ‘locate’ Command</a></li>
 
-
   <li><a href="https://programmersought.com/article/99213966330/">Linux view file cat, less, more, head, tail, tac, rev command</a></li>
   
-  <ul><strong>File Compression - tar, gzip, bzip2</strong>
+  <strong>File Compression - tar, gzip, bzip2</strong>
+  <ul>
     <li><a href="https://www.geeksforgeeks.org/tar-command-linux-examples/">tar command in Linux with examples</a></li>
   </ul>
-
 </ul>
 
 ## Bash Scripting
