@@ -84,6 +84,7 @@
     <ul>
       <li><a href="https://www.geeksforgeeks.org/tar-command-linux-examples/">tar command in Linux with examples</a></li>
       <li><a href="https://t.ly/JCly">gzip Command in Linux</a></li>
+      <li><a href="https://t.ly/rj95">bzip2 command in Linux with Examples</a></li>
     </ul>
   </li>
   
