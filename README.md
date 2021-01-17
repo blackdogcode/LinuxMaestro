@@ -113,6 +113,8 @@
   <li><a href="https://www.geeksforgeeks.org/ifconfig-command-in-linux-with-examples/">ifconfig command in Linux with Examples</a></li>
   
   <li><a href="https://www.howtogeek.com/437958/how-to-use-the-chmod-command-on-linux/">How to Use the chmod Command on Linux</a></li>
+  
+  <li><a href="https://linuxize.com/post/how-to-kill-a-process-in-linux/">How to Kill a Process in Linux</a></li>
 </ul>
 
 ## Others
