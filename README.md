@@ -82,6 +82,7 @@
   
   <li><strong>File Compression - tar, gzip, bzip2, zip</strong>
     <ul>
+      <li><a href="https://www.rootusers.com/gzip-vs-bzip2-vs-xz-performance-comparison/">Gzip vs Bzip2 vs XZ Performance Comparison</a><li>
       <li><a href="https://www.geeksforgeeks.org/tar-command-linux-examples/">tar command in Linux with examples</a></li>
       <li><a href="https://t.ly/JCly">gzip Command in Linux</a></li>
       <li><a href="https://t.ly/rj95">bzip2 command in Linux with Examples</a></li>
