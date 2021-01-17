@@ -103,7 +103,7 @@
 
 ## [Bash Scripting](https://www.javatpoint.com/bash)
 <ul>
-  <li><a href="https://linuxize.com/post/bash-shebang/">What is Bash Shebang(#!/bin/bash)?</a></li>
+  <li><a href="https://linuxize.com/post/bash-shebang/">Bash Shebang(#!/bin/bash)</a></li>
   
   <li><strong>Automated Scheduling
     <ul>
@@ -126,10 +126,9 @@
   <li><a href="https://linuxize.com/post/how-to-kill-a-process-in-linux/">How to Kill a Process in Linux</a></li>
 </ul>
 
+
 ## Others
 <ul>
-  <li><a href="https://itsfoss.com/what-is-desktop-environment/">What is Desktop Environment in Linux?</a></li>
-  
   <li><a href="https://linuxhint.com/vim_vs_nano/">Vim vs. Nano</a>
     <ul>
       <li><a href="https://www.tutorialspoint.com/vim/index.htm">Vim Tutorial</a></li>
@@ -138,4 +137,8 @@
   </li>
 </ul>
 
+
 ## QAs
+<ul>
+  <li><a href="https://itsfoss.com/what-is-desktop-environment/">What is Desktop Environment in Linux?</a></li>
+</ul>
