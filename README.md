@@ -4,7 +4,16 @@
   
   <li><a href="https://www.fosslinux.com/40109/debian-vs-ubuntu-everything-you-need-to-know-to-choose.htm">Debian vs Ubuntu</a></li>
   
-  <li><a href="https://itsfoss.com/ubuntu-shortcuts/">13 Keyboard Shortcut Every Ubuntu 18.04 User Should Know</a></li>
+  <li><strong>Ubuntu</strong>
+    <ul>
+      <li><a href="https://itsfoss.com/ubuntu-shortcuts/">13 Keyboard Shortcut Every Ubuntu 18.04 User Should Know</a></li>
+      <li><a href="https://help.ubuntu.com/community/Repositories/Ubuntu">Repositories/Ubuntu</a>
+        <ul>
+          <li><a href="https://packages.ubuntu.com/">Ubuntu Packages Search</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
   
   <li><a href="https://phoenixnap.com/kb/linux-commands-cheat-sheet">Linux Commands Cheat Sheet</a></li>
   
