@@ -80,7 +80,8 @@
 </ul>
 
   <li><a href="https://programmersought.com/article/99213966330/">Linux view file cat, less, more, head, tail, tac, rev command</a></li>
-
+  
+  <li><a href="https://www.geeksforgeeks.org/tar-command-linux-examples/">tar command in Linux with examples</a></li>
 ## Bash Scripting
 
 
