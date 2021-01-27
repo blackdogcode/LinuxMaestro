@@ -2,7 +2,7 @@
 <ul>
   <li><a href="https://www.gnu.org/licenses/gpl-3.0.html">GPL(General Public Licnese)V3 Documnetation</a></li>
   
-  <li><a href="https://www.fosslinux.com/40109/debian-vs-ubuntu-everything-you-need-to-know-to-choose.htm">Debian vs Ubuntu</a></li>
+  <li><a href="https://t.ly/Etu1">CentOS vs Ubuntu</a></li>
   
   <li><strong>Ubuntu</strong>
     <ul>
