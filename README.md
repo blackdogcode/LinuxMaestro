@@ -118,17 +118,12 @@
 
 
 ## Tips
-<ul>
-  <li><a href="https://www.tecmint.com/things-to-do-after-installing-ubuntu-20-04/">25 Things to Do After Installing Ubuntu 20.04 LTS</a></li>
-  
-  <li><a href="https://www.cyberciti.biz/faq/linux-display-cpu-information-number-of-cpus-and-their-speed/">Linux Display CPU Information Number of CPUs and Their Speed</a></li>
-
-  <li><a href="https://www.geeksforgeeks.org/ifconfig-command-in-linux-with-examples/">ifconfig command in Linux with Examples</a></li>
-  
-  <li><a href="https://www.howtogeek.com/437958/how-to-use-the-chmod-command-on-linux/">How to Use the chmod Command on Linux</a></li>
-  
-  <li><a href="https://linuxize.com/post/how-to-kill-a-process-in-linux/">How to Kill a Process in Linux</a></li>
-</ul>
+- [Ubuntu - Useful keyboard shortcuts](https://t.ly/QcqW)
+- [25 Things to Do After Installing Ubuntu 20.04 LTS](https://t.ly/7t9l)
+- [Linux Display CPU Information Number of CPUs and Their Speed](https://t.ly/ShXw)
+- [ifconfig command in Linux with Examples](https://t.ly/yew3)
+- [How to Use the chmod Command on Linux](https://t.ly/Kxl4)
+- [How to Kill a Process in Linux](https://t.ly/dqil)
 
 
 ## Others
