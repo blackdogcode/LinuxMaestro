@@ -143,6 +143,5 @@
 
 
 ## QAs
-<ul>
-  <li><a href="https://itsfoss.com/what-is-desktop-environment/">What is Desktop Environment in Linux?</a></li>
-</ul>
+- [What is Desktop Environment in Linux?](https://t.ly/ZdZc)
+- [How to Add a Directory to PATH in Linux](https://t.ly/mtuz)
